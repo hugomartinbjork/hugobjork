@@ -29,6 +29,8 @@
 <!-- <img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> -->
 <a href="https://www.mysql.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <a href="https://git-scm.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://www.figma.com/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<!-- <a href="https://www.docker.com/"><img width=55px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a> -->
 <a href="https://posit.co/products/open-source/rstudio/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></a>
 <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>       
 </div>
