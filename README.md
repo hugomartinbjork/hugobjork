@@ -3,6 +3,8 @@
 
 - 🌍 Location **Linköping || Stockholm**
 
+- 🚀 Currently building Spectable
+
 - 👨‍💻 Check out some of my projects [https://hugobjork.com/](https://hugobjork.com/)
 
 - 📫 Mail **hugo@hugobjork.com**
