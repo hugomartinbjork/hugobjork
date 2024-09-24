@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo!</h1>
-<h3 align="center">I am an engineer who is passionate about advancing my skills in fullstack development and machine learning.</h3>
+<h3 align="center">I am an engineer with a passion for data science and full-stack development, creating scalable, cutting-edge systems equipped with AI.</h3>
 
 - 🌍 Location **Stockholm**
 
