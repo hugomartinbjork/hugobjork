@@ -3,6 +3,8 @@
 
 - 🌍 Location **Stockholm**
 
+- Machine Learning Consultant at Netlight 🦄
+
 - 🚀 Currently building Spectable
 
 - 👨‍💻 Check out some of my projects [https://hugobjork.com/](https://hugobjork.com/)
